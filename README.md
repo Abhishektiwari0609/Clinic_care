@@ -1,4 +1,4 @@
-# 🏥 Doctor Clinic Website
+# 🏥 Clinic care website
 
 A modern and responsive **Doctor Clinic Website** built using **React.js** and **React Router**. This project provides essential pages like **Home, Services, About, and Contact**, ensuring a seamless user experience.
 
